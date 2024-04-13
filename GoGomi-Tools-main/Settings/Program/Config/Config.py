@@ -1,0 +1,10 @@
+name_tool = "GoGomi"
+version_tool = "2.6"
+coding_tool = "Python"
+language_tool = "EN"
+creator = "Fluzix"
+discord_server = ""
+website = ""
+github_tool = ""
+url_config = "https://raw.githubusercontent.com/fluzyteck/RedTiger/main/Settings/Program/Config/Config.py"
+

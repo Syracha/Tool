@@ -1,0 +1,20 @@
+
+			   ██▀███  ▓█████ ▓█████▄    ▄▄▄█████▓ ██▓  ▄████ ▓█████  ██▀███  
+			  ▓██ ▒ ██▒▓█   ▀ ▒██▀ ██▌   ▓  ██▒ ▓▒▓██▒ ██▒ ▀█▒▓█   ▀ ▓██ ▒ ██▒
+			  ▓██ ░▄█ ▒▒███   ░██   █▌   ▒ ▓██░ ▒░▒██▒▒██░▄▄▄░▒███   ▓██ ░▄█ ▒
+			  ▒██▀▀█▄  ▒▓█  ▄ ░▓█▄   ▌   ░ ▓██▓ ░ ░██░░▓█  ██▓▒▓█  ▄ ▒██▀▀█▄  
+			  ░██▓ ▒██▒░▒████▒░▒████▓      ▒██▒ ░ ░██░░▒▓███▀▒░▒████▒░██▓ ▒██▒
+			  ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒▒▓  ▒      ▒ ░░   ░▓   ░▒   ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
+			    ░▒ ░ ▒░ ░ ░  ░ ░ ▒  ▒        ░     ▒ ░  ░   ░  ░ ░  ░  ░▒ ░ ▒░
+			   ░░   ░    ░    ░ ░  ░      ░       ▒ ░░ ░   ░    ░     ░░   ░ 
+ 			    ░        ░  ░   ░                 ░        ░    ░  ░   ░     
+
+
+
+1 (en) > Start.exe' to make sure everything is working correctly.
+2 (en) > Then launch 'Start.Start.bat' if it does not launch automatically.
+--------------------------------------------------------------------------------
+1 (fr) > Lancez 'Start.exe' pour vous assurer que tout fonctionne correctement.
+2 (fr) > Puis lancez 'Start.bat' si il ne se lance pas automatiquement.
+
+DANGEROUS > Do not touch any file in the GoGomi-main tool to avoid any damage.

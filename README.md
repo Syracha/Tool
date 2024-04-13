@@ -1,2 +1,2 @@
 # Tool
-C'est un Tools qui a beaucoup de fonctionnalité  comme le grab et le dmall le Token info Token login ...ect voila .
+It's a Tools that has a lot of features like grab...ect to launch it it's very simple first install the modules by launching Setup.bat and then launch Start.exe then Start.bat
